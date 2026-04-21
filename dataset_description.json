@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "The VR-SASE workflow uses Open Brush, open source, virtual reality art software, and Blender to segment neurons.  A DataJoint pipeline determines spatial distribution of dendritic spines, filters them based on morphological parameters and is exported into a CSV for further analysis.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Reimer, Marike"
+    ],
     "License": "CC0-1.0",
     "GeneratedBy": [
         {
